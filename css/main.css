@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.header{
+    color: rgb(255, 0, 55);
+}
+
+.navbar>ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0%;
+}
+.navbar>ul>li{
+    
+    padding: 10px;
+}
+section>ul{
+    display: inline-block;
+}
+h2{
+    color: slateblue;
+}
+h3{
+    color: rgb(175, 175, 25);
+}
+ol{
+    display: inline-block;
+}
+p{
+    text-align: start;
+}
+.h3-start{
+    text-align: start;
+}
